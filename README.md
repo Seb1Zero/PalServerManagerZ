@@ -6,7 +6,7 @@ Current PSM Language Options Available: **`English`** **`Chinese`**
 This is newly forked and I'm working on it at the moment. 
 
 > [!IMPORTANT]
-> This project is no longer being maintained. Please feel free to fork the repository and continue working on it.
+> This is not up-to-date at the moment, I'm working on updating it
 
 > [!IMPORTANT]
 > It is recommended that you use the backup feature I implemented in update `v1.0.4` and beyond to backup your saved files just in case updating your game server causes a loss of player progression. This is not a bug from my side but a bug from Palworld's side, so do remember to use the backup feature just in case.
