@@ -1,10 +1,9 @@
-# PalworldServerManager - Simple server creating and managing tool.    
-_DOWNLOAD:_ [Download Latest](https://github.com/TianYu-00/PalworldServerManager/releases/latest)    
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1U729N)
+# Palworld Server Manager - Simple Server creating and managing tool.    
 
 > [!NOTE]
 Last Tested Game Version: **`v0.3.9.59545`** using PSM: **`v1.2.0`**   
 Current PSM Language Options Available: **`English`** **`Chinese`**
+This is newly forked and I'm working on it at the moment. 
 
 > [!IMPORTANT]
 > This project is no longer being maintained. Please feel free to fork the repository and continue working on it.
